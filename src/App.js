@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and it Will test the desktop git
+          Edit <code>src/App.js</code> and it Will test the yash makwana
         </p>
         <a
           className="App-link"
